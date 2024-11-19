@@ -1,0 +1,18 @@
+img:hover{
+    content: url(terror.jpg);
+    }
+    body{
+        background-color: rgb(133, 127, 127);
+    }
+    .img{
+        width: 30%;
+    }
+    #apagado{
+       width: 50%;
+    }
+    hr{
+        border: 0,8px solid;
+        border-color: rgb(78, 43, 43);
+        width: 100%;
+    }
+    
